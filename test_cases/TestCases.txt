@@ -1,0 +1,30 @@
+[1]
+(venv) ahamadalis-MacBook-Pro:SpaceKawaTicTacToe ahamadali$ python3 main.py 
+##########  :Note:  ##########
+
+1. Just use 'move a,b' to make a move !
+2. a and b both from 0 to 2 means 3*3 game board size.
+3. Type 'quit' to quit the game and 'scoreboard' to check history.
+4. You quit you lose.
+
+You will start first, 'X' is yours !
+
+tictactoe> qwqw
+Try again!
+1. Just use 'move a,b' to make a move !
+2. a and b both from 0 to 2 means 3*3 game board size.
+3. Type 'quit' to quit the game and 'scoreboard' to check history.
+4. You quit you lose.
+
+tictactoe> scoreboard
+|Computer |User |Draws |
+|0        |0    |0     |
+
+tictactoe> quit
+|   |   |   |
+|   |   |   |
+|   |   |   |
+Computer wins!
+(venv) ahamadalis-MacBook-Pro:SpaceKawaTicTacToe ahamadali$ 
+
+[2]
