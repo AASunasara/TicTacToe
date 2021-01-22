@@ -11,10 +11,10 @@ def main():
     tictactoe_funcs.display_notes()
 
     if player_details["human"] == "X":
-        print("\nYou will start first, 'X' is yours !\n")
+        print("\nYou will start first, 'X' is yours !")
         start(player_details, True)
     else:
-        print("\nI will start first, 'X' is mine !", "You are biggg 'O' ;)\n")
+        print("\nI will start first, 'X' is mine !", "You are biggg 'O' ;)")
         start(player_details)
         
 

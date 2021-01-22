@@ -1,3 +1,4 @@
+numpy==1.19.5
 prompt-toolkit==1.0.14
-wcwidth==0.2.5
 six==1.15.0
+wcwidth==0.2.5
